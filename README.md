@@ -89,3 +89,19 @@ para fins de estudo, aprendizado e portfólio profissional.
 Projeto desenvolvido como parte da minha jornada
 de desenvolvimento profissional em Análise de Dados
 e Business Intelligence.
+
+---
+
+## 🖼️ Visualização do Dashboard
+
+### 📊 Página 1 — Visão Executiva
+
+![Visão Executiva](visao-executiva.png)
+
+### 🚚 Página 2 — Transportes e Entregas
+
+![Transportes e Entregas](transportes-entregas.png)
+
+### 📈 Página 3 — Análise de Transportadoras
+
+![Análise de Transportadoras](analise-transportadoras.png)
