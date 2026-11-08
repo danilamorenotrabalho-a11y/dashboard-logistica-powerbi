@@ -105,3 +105,27 @@ e Business Intelligence.
 ### 📈 Página 3 — Análise de Transportadoras
 
 ![Análise de Transportadoras](analise-transportadoras.png)
+---
+
+## 📥 Como utilizar o projeto
+
+1. Baixe os arquivos:
+   - `Dashboard_Logistica_Analise_Operacional.pbix`
+   - `Base_Logistica_Empresa_Medio_Porte.xlsx`
+
+2. Abra o arquivo `.pbix` no Power BI Desktop.
+
+3. Caso seja necessário atualizar os dados, altere o
+   caminho da fonte Excel para o local onde você salvou
+   a planilha no seu computador.
+
+4. Atualize os dados no Power BI.
+
+5. Explore as três páginas do dashboard utilizando
+   os filtros de período, região, centro de distribuição
+   e transportadora.
+
+**Observação:** o arquivo Power BI foi desenvolvido
+com uma fonte Excel local. Por isso, quem baixar o
+projeto precisará ajustar o caminho da fonte para
+atualizar os dados.
